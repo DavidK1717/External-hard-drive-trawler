@@ -87,7 +87,7 @@
     <Compile Include="frmSelectDrives.Designer.cs">
       <DependentUpon>frmSelectDrives.cs</DependentUpon>
     </Compile>
-    <Compile Include="MySql_1.cs" />
+    <Compile Include="MySqlDB.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SqlServerDB.cs" />
