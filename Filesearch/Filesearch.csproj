@@ -90,7 +90,6 @@
     <Compile Include="MySqlDB.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SqlServerDB.cs" />
     <EmbeddedResource Include="frmSelectDrives.resx">
       <DependentUpon>frmSelectDrives.cs</DependentUpon>
     </EmbeddedResource>
